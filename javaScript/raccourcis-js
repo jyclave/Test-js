@@ -7,7 +7,14 @@ const hero = {
   weapon,
   enemy,
 };
-console.log(hero);
+console.log(`Le nom de ton enemy est ${enemy} et quelle arme utilise-t-il ? un ${weapon} mon nom est: ${name}`);
   
 
 
+const getFive = () => 5;
+const addFive = () => 2 + 5;
+const divide = (a, b) => a / b;
+
+console.log(getFive);
+console.log(addFive);
+console.log(divide);
