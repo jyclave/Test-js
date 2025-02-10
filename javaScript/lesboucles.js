@@ -46,8 +46,10 @@ const voyages = [
 const nomPays = voyages.map(voyage => voyage.pays);
 console.log(nomPays);
 const nomVille = voyages.map(voyage => voyage.ville).sort();
-
 console.log(nomVille);
+
+
+
 
 
 

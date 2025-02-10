@@ -1,0 +1,13 @@
+const name = "David"
+let weapon = "Glock"
+let enemy = "Spider"
+
+const hero = {
+  name,
+  weapon,
+  enemy,
+};
+console.log(hero);
+  
+
+
